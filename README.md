@@ -1,7 +1,7 @@
 # 🎓 Coursera Multimodal Intelligence Platform
 
 [![Production Status](https://img.shields.io/badge/Production-Live%20%26%20Certified-success?style=for-the-badge&logo=vercel)](https://coursera-multimodal-intelligence-pl.vercel.app/)
-[![Automated Tests](https://img.shields.io/badge/Tests-97%2F97%20Passed-brightgreen?style=for-the-badge&logo=pytest)](https://github.com/SakshiBhardwaj27/Coursera-Multimodal-Intelligence-Platform/edit/main/README.md))
+[![Automated Tests](https://img.shields.io/badge/Tests-97%2F97%20Passed-brightgreen?style=for-the-badge&logo=pytest)](https://github.com/SakshiBhardwaj27/Coursera-Multimodal-Intelligence-Platform)
 [![Python Version](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![React Version](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
